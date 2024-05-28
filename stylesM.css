@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #006400;
+    background-color: #007B63;
     color: white;
     text-align: center;
     padding: 1em 0;
@@ -15,7 +15,7 @@ header {
 nav ul {
     list-style-type: none;
     padding: 0;
-    background-color: #228b22;
+    background-color: #007B63;
     text-align: center;
     margin: 0;
 }
@@ -32,7 +32,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #006400;
+    background-color: #007B63;
 }
 
 main {
@@ -62,7 +62,7 @@ main {
 }
 
 footer {
-    background-color: #228b22;
+    background-color: #007B63;
     color: white;
     text-align: center;
     padding: 1em 0;
