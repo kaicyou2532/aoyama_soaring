@@ -70,3 +70,25 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+.nav-menu {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 77, 64, 0.8);
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.nav-menu a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 5px;
+}
+
+.nav-menu a:hover {
+    background-color: #007B63;
+}
+
